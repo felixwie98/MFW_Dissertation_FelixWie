@@ -118,14 +118,8 @@ The analysis was run in R. The exact version and package versions are documented
 
 ---
 
-## License
-
-The code in this repository is released under the MIT License (see [`LICENSE`](LICENSE)). The MIT License covers the code only; it does not grant any rights to the underlying Bloomberg data.
-
----
-
 ## Author
 
-Felix Wiese — Master in Finance, ISEG Lisbon School of Economics & Management, Universidade de Lisboa.
+Felix Wiese — Master´s in Finance, ISEG Lisbon School of Economics & Management.
 
 I thank my supervisor, Pedro Rino Vieira, for guidance and feedback throughout this dissertation.
